@@ -1,0 +1,1 @@
+../../../ArtisanSDK/ArtisanSDK.framework/Versions/A/Headers/UIViewController+ArtisanEventTags.h
